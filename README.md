@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Backend Development** with **Node.js**, **Express.js**, and **MongoDB** for scalable APIs.
 
-- 💬 Ask me about **Flutter, Dart,Node.js, Express.js SQL, MongoDB,Java, C/C++**
+- 💬 Ask me about **Flutter, Dart, Node.js, Express.js SQL, MongoDB, Java, C/C++**
 
 - 📫 How to reach me **shaktikadam512@gmail.com**
 
@@ -14,11 +14,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/shaktiprasad-kadam-861aa6229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/shaktiprasad-kadam-861aa6229" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shaktikadam12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shaktikadam12" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/shaktik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shaktik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shaktikadam12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shaktikadam12/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shaktikadam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shaktikadam/" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/shaktiprasad-kadam-861aa6229" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaktiprasad-kadam-861aa6229" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/kadam_shaktiprasad/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kadam_shaktiprasad" height="30" width="40" />
+    </a>
+    <a href="https://www.codechef.com/users/shaktikadam12" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shaktikadam12" height="30" width="40" />
+    </a>
+    <a href="https://codeforces.com/profile/shaktik" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shaktik" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/shaktikadam12/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaktikadam12" height="30" width="40" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/shaktikadam/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaktikadam" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
