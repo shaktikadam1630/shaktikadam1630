@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **System Design**.  
 
-- 💬 Ask me about **Flutter, Dart, Node.js, Express.js, SQL, MongoDB, Spring Boot**  
+- 💬 Ask me about **Flutter, Spring Boot, Node.js, Express.js, SQL, MongoDB **  
 
 - 📫 How to reach me: **shaktikadam512@gmail.com**  
 
