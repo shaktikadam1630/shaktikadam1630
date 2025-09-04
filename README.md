@@ -4,13 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Backend Development** with **Node.js**, **Express.js**, and **MongoDB** for scalable APIs.
+- 🔭 I’m currently working on **System Design**.  
 
-- 💬 Ask me about **Flutter, Dart, Node.js, Express.js SQL, MongoDB, Java, C/C++**
+- 💬 Ask me about **Flutter, Dart, Node.js, Express.js, SQL, MongoDB, Spring Boot**  
 
-- 📫 How to reach me **shaktikadam512@gmail.com**
+- 📫 How to reach me: **shaktikadam512@gmail.com**  
 
-- ⚡ Fun fact **I’m an avid traveler! Whenever I'm not coding, I love exploring new places and cultures.**
+- ⚡ Fun fact: **I’m an avid traveler! Whenever I'm not coding, I love exploring new places and cultures.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
